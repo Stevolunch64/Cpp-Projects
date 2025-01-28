@@ -1,0 +1,8 @@
+﻿  Pong.cpp
+C:\2dgd\classroom code\Pong-TakeHomeStephen\Pong-TakeHomeStephen\code\Pong.cpp(256,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2dgd\classroom code\Pong-TakeHomeStephen\Pong-TakeHomeStephen\code\Pong.cpp(291,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2dgd\classroom code\Pong-TakeHomeStephen\Pong-TakeHomeStephen\code\Pong.cpp(292,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2dgd\classroom code\Pong-TakeHomeStephen\Pong-TakeHomeStephen\code\Pong.cpp(293,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2dgd\classroom code\Pong-TakeHomeStephen\Pong-TakeHomeStephen\code\Pong.cpp(458,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\2dgd\classroom code\Pong-TakeHomeStephen\Pong-TakeHomeStephen\code\Pong.cpp(520,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  Pong-TakeHomeStephen.vcxproj -> C:\2dgd\classroom code\Pong-TakeHomeStephen\x64\Debug\Pong-TakeHomeStephen.exe
