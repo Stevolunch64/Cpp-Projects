@@ -1,0 +1,13 @@
+﻿  Timber.cpp
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(484,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(528,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(652,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(792,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(916,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(920,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(947,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(951,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(978,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(982,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\2dgd\classroom code\SFML-AtHomeAssignment\SFML-AtHomeAssignment\code\Timber.cpp(1035,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  SFML-AtHomeAssignment.vcxproj -> C:\2dgd\classroom code\SFML-AtHomeAssignment\x64\Debug\SFML-AtHomeAssignment.exe
