@@ -3,7 +3,7 @@ This is a C++ game called "Timber!!" where you must chop logs using the arrow ke
 (make sure you have SFML)
 
 Pong - TakeHomeStephen:
-C++ game thats similat to pong where you must keep every ball in play
+C++ game thats similar to pong where you must keep every ball in play
 (have SFML for this)
 
 CrazyEightsStephen.cpp:
