@@ -8,3 +8,6 @@ C++ game thats similar to pong where you must keep every ball in play
 
 CrazyEightsStephen.cpp:
 C++ game that is based on the Crazy Eights card game
+
+StephenCAChar:
+C++ text based battle game where you can move on a board with enemies
