@@ -1,0 +1,30 @@
+﻿  ZombieArena.cpp
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\Zombie.h(19,31): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'code/ZombieArena.cpp')
+  
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(27,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(27,44): warning C4244:         with
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(27,44): warning C4244:         [
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(27,44): warning C4244:             T=float
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(27,44): warning C4244:         ]
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(28,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(28,44): warning C4244:         with
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(28,44): warning C4244:         [
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(28,44): warning C4244:             T=float
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(28,44): warning C4244:         ]
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(30,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(30,56): warning C4244:         with
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(30,56): warning C4244:         [
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(30,56): warning C4244:             T=float
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(30,56): warning C4244:         ]
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(30,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(30,42): warning C4244:         with
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(30,42): warning C4244:         [
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(30,42): warning C4244:             T=float
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(30,42): warning C4244:         ]
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(880,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(880,50): warning C4244:         with
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(880,50): warning C4244:         [
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(880,50): warning C4244:             T=float
+C:\2dgd\classroom code\ZombieStephen\ZombieStephen\code\ZombieArena.cpp(880,50): warning C4244:         ]
+  ZombieStephen.vcxproj -> C:\2dgd\classroom code\ZombieStephen\x64\Debug\ZombieStephen.exe
